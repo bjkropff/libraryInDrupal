@@ -1,3 +1,24 @@
+Library -Epicodus Code Review
+Brian Kropff - May 15, 2015
+
+Description
+This is a site made for a fictional lirary using only Drupal.
+
+For review purposes I am displaying the usernames and passwords here
+
+MySQL database name: library
+Username: librarian
+Password: password
+
+Admin user
+Username: librarian
+Password: password
+
+Reviewer user
+Username: brian
+Password: brian
+
+/*========== Core Drupal README.txt====================*/
 
 CONTENTS OF THIS FILE
 ---------------------
